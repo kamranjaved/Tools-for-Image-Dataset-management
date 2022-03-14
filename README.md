@@ -4,3 +4,7 @@ Here are various tools for Image dataset management.
 2. Run Rename.py for renaming images.
 3. Run psnr.py to calculate PSNR of images.
 4. Run split.py to split images into Train and Test folders.
+5. Code For Image Stitching:
+    Steps:
+      (1) Run make_list2.py
+      (2) Run stitch_list.py
